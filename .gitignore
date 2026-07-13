@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+
+# Tooling caches
+.playwright-cli/
+output/
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# Local configuration and research-data exports
+.env
+.env.*
+!.env.example
+.vercel/
+docs/sample-data/*.csv
