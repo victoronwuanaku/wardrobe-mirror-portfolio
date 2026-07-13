@@ -8,11 +8,11 @@ Wardrobe Mirror is a mobile-first reflection tool that compares stated clothing 
 
 ## The challenge
 
-Sustainability research often needs more than a questionnaire: participants need an accessible way to reflect on choices around acquiring, using and letting go of clothing. The project needed a coherent research instrument, a usable digital experience and a transparent way to translate responses into meaningful feedback.
+Sustainability research often needs more than a questionnaire, participants need an accessible way to reflect on choices around acquiring, using and letting go of clothing. The project needed a coherent research instrument, a usable digital experience and a transparent way to translate responses into meaningful feedback.
 
 ## My role
 
-Victor Onwuanaku served as Scrum Master, lead application developer, research and scoring-methodology lead, Python analyst and lead writer of the final report.
+I served as Scrum Master, lead application developer, research and scoring-methodology lead, Python analyst and lead writer of the final report.
 
 ## What I delivered
 
@@ -24,7 +24,7 @@ Victor Onwuanaku served as Scrum Master, lead application developer, research an
 
 - Pilot: 39 participants and 230 garment records.
 - Full-scale round: 109 sessions, including 77 clean sessions.
-- The scoring approach is transparent and theory-aligned; it is not psychometrically validated.
+- The scoring approach is transparent and theory-aligned.
 
 ## Architecture
 
