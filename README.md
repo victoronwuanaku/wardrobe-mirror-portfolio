@@ -12,9 +12,9 @@ Sustainability research often needs more than a questionnaire, participants need
 
 ## My role
 
-I served as Scrum Master, lead application developer, research and scoring-methodology lead, Python analyst and lead writer of the final report.
+Scrum Master for dev sprint, research and scoring-methodology lead, Python analyst.
 
-## What I delivered
+## What was delivered
 
 - Coordinated iterative delivery during the research-design and development phase.
 - Re-engineered the initial prototype into a modular React and TypeScript application with automated scoring and tests.
